@@ -1,0 +1,3 @@
+configuration {
+  font: env(ROFI_FONT, "Zen Maru Gothic Black 12");
+}
