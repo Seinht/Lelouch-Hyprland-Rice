@@ -1,5 +1,0 @@
-@import "config/general"
-@import "config/icons"
-@import "colorscheme/rosepine"
-
-@import "themes/hidrot"
